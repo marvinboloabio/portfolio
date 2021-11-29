@@ -1,0 +1,713 @@
+     
+     * {
+       box-sizing: border-box;
+       }
+
+     body{
+    	margin:0%;
+         }
+
+    .footer{
+    	width:100%;
+    	height:85px;
+    	background-color:#BD2424;
+    	text-align:center;
+            }
+
+          
+    .footertext{
+    	font-size:16px;
+    	font-family: 'Poppins', sans-serif;
+    	color:white;
+    	float:left;
+    	margin-top:30px;
+    	margin-left:560px;
+
+
+    }
+
+
+/*start of the homepage*/
+    #firstbox{
+         background-color: #BD2424;
+         width:100%;
+         height:700px;
+             } 
+        
+
+         
+         
+   .nav a {
+   	     color:white;
+   	     font-size:16px;
+         text-decoration:none;
+         padding-left:90px;
+         font-family: 'Poppins', sans-serif;
+          }
+
+   .nav a:hover{
+   	     color:black;
+   	            }
+               
+     
+        
+
+    .nav{
+    	 float:left;
+    	 margin-left:170px;
+    	 margin-top:30px;
+    	 display:inline-flex;
+          
+
+
+        }
+
+    .namelogo{
+    	color:white;
+    	margin-top:-7px;
+    	float:left;
+        font-size:24px;
+        font-family: 'Poppins', sans-serif;
+           }
+      
+    .intro{
+    	margin-top:150px;
+    	float:left;
+    	margin-left:-515px;
+    	color:white;
+    	  }
+
+    .everyone{
+    	color:black;
+             }
+
+    .img1{
+    	margin-top:48px;
+    	margin-left:-100px;
+         }
+
+
+    .firstletter{
+    	font-size:36px;
+    	color: #BD2424; 
+                } 
+
+    .dash{
+    	color: #BD2424;
+    	font-weight:bold; 
+         }
+    
+
+
+    .hello{
+          font-size:16px;
+          font-family: 'Poppins', sans-serif;
+          }
+
+    .name{
+    	  font-size:48px;
+    	  font-family: 'Poppins', sans-serif;
+
+         }
+
+    .surname{
+    	  font-size:48px;
+    	  font-family: 'Poppins', sans-serif;
+    	  margin-top:-50px;
+           }
+
+     .year{
+         font-size: 24px;
+         font-family: 'Poppins', sans-serif;
+          }
+
+     .firstp{
+     	color:black;
+     	font-family: 'Poppins', sans-serif;
+        font-size:14px; 
+            }
+            
+          
+
+     .containerp{
+     	width:290px;
+     	height:150px;
+     	margin-top:30px;
+		       }
+      /*end of home page*/
+
+
+
+     /* start of educational background page*/
+    .secondbox{
+    	width: 100%;
+    	height:690px;
+    	background-color: #F5EDED;
+    	      }
+     	 
+      
+    	 
+                
+      .title1{
+      	text-align:center;
+    	line-height:15px;
+    	margin-top:50px;
+    	float:left;
+    	margin-left:510px;
+
+             }
+
+     .education{
+     	 font-size:24px;
+    	 font-family: 'Poppins', sans-serif;
+    	 font-weight: bold;
+     	        }
+    	
+              
+
+     .schools{
+
+     	display: inline-flex;
+     	margin-top:50px;
+     	margin-left:50px; 
+     	      }
+
+            
+
+     .schoolimg{
+     	width:340px;
+     	height:200px;
+     	filter: contrast(110%);
+
+               }
+              
+     .schoolbox{
+     	margin-left:50px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     	height:380px;
+     	background-color:white;
+               }
+
+     .schooltitle{
+        text-align:center;
+        line-height:0px;
+        margin-top:25px;
+        font-family: 'Poppins', sans-serif;
+        font-size:16px;
+                  }
+                
+
+
+
+     .schoolp{
+     	font-family: 'Montserrat', sans-serif;
+     	width:250px;
+     	text-align:center;
+     	margin-left:45px;
+     	margin-top:35px;
+     	font-size:14px;
+     	font-weight:bold;
+              }
+    /*end of educational background page*/
+
+
+
+    /*start of Goals page*/
+    .thirdbox{
+    	width:100%;
+    	height:680px;
+    	background-color:white;
+             }
+             
+    .title2{
+    	text-align:center;
+    	line-height:15px;
+    	margin-top:50px;
+    	float:left;
+    	margin-left:590px;
+          }
+
+    .h1goals{
+    	font-size:24px;
+    	font-family: 'Poppins', sans-serif;
+    	font-weight:bold;
+            }
+
+    .goalbox{
+    	
+    	display:inline-flex;
+    	width:90%;
+    	margin-top:50px;
+    	margin-left:40px;
+
+    }
+
+    .box{
+    	width:350px;
+    	height:320px;
+    	text-align:center;
+    	margin-left:50px;
+    	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    	background-color:#F5EDED;
+    }
+
+    .gradlogo{
+    	border-radius:100%;
+    	width:60px;
+    	height:60px;
+    	margin-top:40px;
+    }
+
+     .weblogo{
+    	border-radius:100%;
+    	width:70px;
+    	height:60px;
+    	margin-top:40px;
+    }
+    
+    
+    .h1goal{
+    	font-size:20px;
+    	font-family: 'Poppins', sans-serif;
+    }
+    .goalp{
+    	width:200px;
+    	margin-top:23px; 
+    	margin-left:75px;
+    	font-family: 'Montserrat', sans-serif;
+    	font-size:14px;
+    	font-weight:bold;
+    }
+
+    .to{
+    	font-family: 'Montserrat', sans-serif;
+        font-weight:bold;
+       }
+        /*end of goals page*/
+
+
+
+/*start of About page*/
+    #fourthbox{
+        width:100%;
+    	height:680px;
+        background-color:#F5EDED;
+              
+             }
+    #about{
+    	margin-top:90px;
+    	float:left;
+    	margin-left:110px;
+    	display:inline-flex;
+          }
+
+     .aboutp{
+     	width:550px;
+     	font-family: 'Montserrat', sans-serif;
+        font-weight:bold;
+        text-align:justify;
+        margin-top:30px;
+        font-size:16px;
+        line-height:25px;
+       
+     }
+      .material-icons.md-24{
+     	 margin-top:30px;
+     	 color:#BD2424;
+     	 font-size:24px;
+     	 vertical-align: -6px;
+         margin-right: 10px;
+     }
+     .iconp{
+     	margin-top:10px;
+     	 
+     }
+     
+
+     .abouttitle{
+     	line-height:15px;
+     	text-align:center;
+     	margin-top:50px;
+     }
+     .h1aboutme{
+     	font-size:24px;
+     	font-family: 'Poppins', sans-serif;
+     }
+
+     .aboutimg{
+     	height: 500px;
+     	width:480px;
+     	margin-left:115px;
+     	 
+     	background-color: #BD2424;
+     	border-radius:0px 100px 0px 100px;
+     }
+     .imgabout{
+     	 
+     	margin-top:10px;
+     	margin-left:35px;
+     	height:490px;
+     	border-radius:0px 20px 0px 55px;
+     }
+      /*end of About page*/
+
+
+
+   /*start of skills page*/
+    .fifthbox{
+        width:100%;
+    	height:550px;
+        background-color:white;
+              }       
+             
+     .skills{
+    	margin-top:90px;
+    	float:left;
+    	margin-left:110px;
+    	display:inline-flex;
+          }
+
+     .skillsp{
+     	width:550px;
+     	font-family: 'Montserrat', sans-serif;
+        font-weight:bold;
+        text-align:justify;
+        margin-top:30px;
+        font-size:16px;
+        line-height:25px;
+       
+     }
+
+     .skillstitle{
+     	line-height:15px;
+     	text-align:center;
+     	margin-top:50px;
+     }
+     .h1skills{
+     	font-size:24px;
+     	font-family: 'Poppins', sans-serif;
+     }
+     
+     .logos{
+     	 
+     	display:inline-flex;
+     	width:400px;
+     	margin-left:120px;
+     	margin-top:-25px;
+
+     }
+      
+      .logos1{
+      	margin-left:25px;
+      }
+
+      .iconimg{
+      	border-radius:100%;
+      	 
+      }
+      .iconimg2adj{
+      	margin-top:10px;
+      	margin-left:15px;
+      }
+       /*end of skills page*/
+
+
+
+/*start of hobbies  page*/
+     .sixthbox{
+        width:100%;
+    	height:1250px;
+        background-color:#F5EDED;
+              
+             }
+     .hobbiestitle{
+    	text-align:center;
+    	line-height:15px;
+    	margin-top:50px;
+    	float:left;
+    	margin-left:600px;
+          }
+
+    .h1hobies{
+    	font-size:24px;
+    	font-family: 'Poppins', sans-serif;
+    	font-weight:bold;
+            }
+
+     .main {
+       max-width: 1000px; 
+       margin: auto;
+       margin-top:40px;
+       float:left;
+       margin-left:150px;
+       
+
+           }
+
+	h1 {
+  	font-size: 50px;
+    word-break: break-all;
+      }
+
+	.row {
+ 	 margin: 10px -16px;
+
+		}
+
+/* Add padding BETWEEN each column */
+	.row,
+	.row > .column {
+ 	 padding: 8px;
+	}
+
+	.row{
+		margin-top:35px;
+	}
+
+/* Create three equal columns that floats next to each other */
+	.column {
+  	float: left;
+  	width: 33.33%;
+ 	 display: none; /* Hide all elements by default */
+			}
+
+/* Clear floats after rows */ 
+	.row:after {
+  	content: "";
+  	display: table;
+  	clear: both;
+  	margin-left:50px;
+				}
+
+/* Content */
+	.content {
+ 	background-color: white;
+    height:250px;
+    margin-top:20px;
+    margin-left:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform .2s;
+  	          }
+  	.content:hover{
+  	transform: scale(1.1);
+  	              }
+		
+    .imgcontent{
+     height:250px;
+     width:100%;
+    }
+
+/* The "show" class is added to the filtered elements */
+	.show {
+  	display: block;
+		}
+
+/* Style the buttons */
+	.btn {
+  border: none;
+  outline: none;
+  padding-left: 24px;
+  padding-right:24px;
+  padding-top:16px;
+  padding-bottom:16px; 
+  background-color: white;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  margin-left:10px;
+
+		}
+
+.btn:hover {
+  background-color: #BD2424;
+		}
+
+.btn.active {
+  background-color: #BD2424;
+  color: white;
+}
+#myBtnContainer{
+	margin-left:210px;
+
+}
+ /*end of hobbies page*/
+
+
+/*start of Contact page*/
+#seventhbox{
+	    width:100%;
+    	height:690px;
+        background-color:white;
+
+         }
+
+ 
+ .contacttitle{
+     	text-align:center;
+    	line-height:15px;
+    	margin-top:50px;
+    	float:left;
+    	margin-left:600px;
+     }
+.h1contact{
+     	font-size:24px;
+     	font-family: 'Poppins', sans-serif;
+         }
+
+.material-icons{
+     	 font-size:36px;
+     }
+     
+.icons{
+     	 margin-top:20px;
+     	 float:left;
+     	 width:350px;
+     	 margin-left:130px; 
+     	
+     }
+
+.icons p{
+     	font-family: 'Poppins', sans-serif;
+
+          }
+
+.material-icons.md-36{
+     	 margin-top:40px;
+     	 color:#BD2424;
+     	 font-size:36px;
+     	 vertical-align: -11px;
+         margin-right: 10px;
+          }
+
+ .contactcontainer{
+
+     	display:inline-flex;
+     	 
+             }
+
+ .contactform{
+     	margin-left:120px;
+     	margin-top:45px;
+     	width:680px; 
+     	
+            }
+     
+ input[type=text] {
+  		width: 100%;
+  		padding: 12px 20px;
+  		margin: 8px 0;
+ 	    box-sizing: border-box;
+        border: none;
+        border-bottom: 2px solid red;
+        width:40%;
+        font-family: 'Poppins', sans-serif;
+               }
+
+ input[type=text], textarea {
+  		 
+  		padding: 12px 20px;
+  		margin: 8px 0;
+ 	    box-sizing: border-box;
+        border: none;
+        border-bottom: 2px solid black;
+        width:40%;
+        font-family: 'Poppins', sans-serif;
+         }
+
+ #subject{
+    	width:81.5%;
+    	margin-top:35px;
+            }
+
+ #lname{
+    	margin-left:10px; 
+          }
+
+    
+
+ #message{
+        width:81.5%;
+        height:100px;
+        margin-top:35px;
+
+           }
+
+      
+
+ input[type=submit] {
+ 	    width: 20%;
+ 	    background-color:#BD2424;
+        color: white;
+        padding-left: 24px;
+        padding-right:24px;
+        padding-top:16px;
+        padding-bottom:16px; 
+ 		margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top:50px;
+        font-family: 'Poppins', sans-serif;
+                    }
+
+  input[type=submit]:hover{
+  	    color:black;
+  }
+  /*end of contact page*/
+
+
+
+
+/* designing the back to top button */
+   
+   #myBtn {
+  	   display: none;
+  	   position: fixed;
+  	   bottom: 20px;
+  	   right: 30px;
+  	   z-index: 99;
+  	   font-size: 16px;
+  	   border: none;
+ 	   outline: none;
+  	   background-color:#BD2424;
+  	   color: white;
+ 	   cursor: pointer;
+ 	   padding: 15px;
+       border-radius: 4px;
+
+}
+
+#myBtn:hover {
+       color:black;
+             }
+
+ 
+               
+
+
+
+
+
+
+      
+     
+
+
+   
+ 
+            
+
+
+     	
+     
+     
+
+
+
+      
+
+
+
+
+       
+
+    
